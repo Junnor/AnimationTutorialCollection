@@ -46,6 +46,7 @@
                                                 </label>
                                             </subviews>
                                         </view>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstItem="yg8-Bd-fur" firstAttribute="centerY" secondItem="wU5-1U-rjT" secondAttribute="centerY" id="a18-6o-pgY"/>
                                             <constraint firstItem="yg8-Bd-fur" firstAttribute="centerX" secondItem="wU5-1U-rjT" secondAttribute="centerX" id="lPv-RL-qeh"/>
